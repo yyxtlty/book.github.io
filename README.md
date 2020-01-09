@@ -86,3 +86,5 @@ git subtree split --prefix=<prefix> [OPTIONS] [<commit>]
 
 [book.json](http://www.chengweiyang.cn/gitbook/customize/book.json.html)
 
+[GitBook 使用教程](https://juejin.im/post/5ad412196fb9a028c22b3a41)
+
