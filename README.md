@@ -5,7 +5,7 @@
 ### gitbook 安装和初始化
 
 #### 安装： install gitbook-cli -g
-	
+
 注意：需要安装 gitbook-cli,而不是gitbook
 
 #### 初始化一个gitbook项目：
@@ -87,4 +87,4 @@ git subtree split --prefix=<prefix> [OPTIONS] [<commit>]
 [book.json](http://www.chengweiyang.cn/gitbook/customize/book.json.html)
 
 [GitBook 使用教程](https://juejin.im/post/5ad412196fb9a028c22b3a41)
-
+[结合 GitHub Pages 使用 GitBook](https://www.jianshu.com/p/3d03ab330df5)
