@@ -1,13 +1,13 @@
-# Summary
+# Your Book Title
 
-* [Introduction](README.md)
-
-* [Part I](part1/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
-* [stack](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
-    * [mysql](part2/mysql.md)
-    * [git ](part2/git/README.md)
-       * [git subtree](part2/git/gitSubtree.mc)
+- Book
+  - Part 2
+    * [Git](_book/part2/git.md)
+- [Part 1](part1/README.md)
+  * [Gitbook](part1/gitbook.md)
+  * [Writing](part1/writing.md)
+- Part 2
+  * [Git](part2/git.md)
+  * [Better Tools](part2/better_tools.md)
+  * [Feedback Please](part2/feedback_please.md)
+  * [Mysql](part2/mysql.md)
