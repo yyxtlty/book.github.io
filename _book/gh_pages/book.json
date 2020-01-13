@@ -1,0 +1,11 @@
+{
+	"author" : "victor zhang",
+	"description" : "Gitbook 教程",
+	"direction" : "ltr",
+	"language" : "zh-hans",
+	"links" : {
+	    "sidebar" : {
+	        "Home" : ""
+	    }
+	}
+}
