@@ -9,3 +9,5 @@
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
     * [mysql](part2/mysql.md)
+    * [git ](part2/git/README.md)
+      * [git subtree](part2/git/gitSubtree.mc)
